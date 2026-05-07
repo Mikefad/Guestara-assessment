@@ -1,0 +1,178 @@
+[
+  {
+    "id": "b1",
+    "guestName": "Ava Johnson",
+    "roomNumber": "101",
+    "roomType": "Deluxe",
+    "source": "Direct",
+    "status": "confirmed",
+    "checkIn": "2026-05-02",
+    "checkOut": "2026-05-06",
+    "revenue": 920
+  },
+  {
+    "id": "b2",
+    "guestName": "Marcus Lee",
+    "roomNumber": "102",
+    "roomType": "Suite",
+    "source": "Booking.com",
+    "status": "confirmed",
+    "checkIn": "2026-05-04",
+    "checkOut": "2026-05-09",
+    "revenue": 1750
+  },
+  {
+    "id": "b3",
+    "guestName": "Chinasa Okafor",
+    "roomNumber": "201",
+    "roomType": "Standard",
+    "source": "Expedia",
+    "status": "checked_in",
+    "checkIn": "2026-04-29",
+    "checkOut": "2026-05-03",
+    "revenue": 560
+  },
+  {
+    "id": "b4",
+    "guestName": "Nina Patel",
+    "roomNumber": "202",
+    "roomType": "Suite",
+    "source": "Direct",
+    "status": "confirmed",
+    "checkIn": "2026-05-12",
+    "checkOut": "2026-05-16",
+    "revenue": 1880
+  },
+  {
+    "id": "b5",
+    "guestName": "Jorge Mendez",
+    "roomNumber": "203",
+    "roomType": "Standard",
+    "source": "Airbnb",
+    "status": "cancelled",
+    "checkIn": "2026-05-10",
+    "checkOut": "2026-05-14",
+    "revenue": 0
+  },
+  {
+    "id": "b6",
+    "guestName": "Fatima Bello",
+    "roomNumber": "301",
+    "roomType": "Deluxe",
+    "source": "Direct",
+    "status": "confirmed",
+    "checkIn": "2026-05-15",
+    "checkOut": "2026-05-21",
+    "revenue": 1440
+  },
+  {
+    "id": "b7",
+    "guestName": "Ethan Carter",
+    "roomNumber": "302",
+    "roomType": "Penthouse",
+    "source": "Luxury Escapes",
+    "status": "confirmed",
+    "checkIn": "2026-05-18",
+    "checkOut": "2026-05-23",
+    "revenue": 3250
+  },
+  {
+    "id": "b8",
+    "guestName": "Adaeze Nwosu",
+    "roomNumber": "103",
+    "roomType": "Standard",
+    "source": "Booking.com",
+    "status": "checked_out",
+    "checkIn": "2026-05-01",
+    "checkOut": "2026-05-04",
+    "revenue": 420
+  },
+  {
+    "id": "b9",
+    "guestName": "Owen Smith",
+    "roomNumber": "104",
+    "roomType": "Deluxe",
+    "source": "Corporate",
+    "status": "confirmed",
+    "checkIn": "2026-05-22",
+    "checkOut": "2026-05-29",
+    "revenue": 1710
+  },
+  {
+    "id": "b10",
+    "guestName": "Lina Zhou",
+    "roomNumber": "204",
+    "roomType": "Suite",
+    "source": "Expedia",
+    "status": "confirmed",
+    "checkIn": "2026-05-27",
+    "checkOut": "2026-06-02",
+    "revenue": 2460
+  },
+  {
+    "id": "b11",
+    "guestName": "Samuel Green",
+    "roomNumber": "205",
+    "roomType": "Standard",
+    "source": "Direct",
+    "status": "pending",
+    "checkIn": "2026-05-08",
+    "checkOut": "2026-05-11",
+    "revenue": 390
+  },
+  {
+    "id": "b12",
+    "guestName": "Priya Raman",
+    "roomNumber": "303",
+    "roomType": "Deluxe",
+    "source": "Travel Agent",
+    "status": "confirmed",
+    "checkIn": "2026-06-01",
+    "checkOut": "2026-06-05",
+    "revenue": 980
+  },
+  {
+    "id": "b13",
+    "guestName": "Noah Harris",
+    "roomNumber": "304",
+    "roomType": "Suite",
+    "source": "Direct",
+    "status": "confirmed",
+    "checkIn": "2026-04-25",
+    "checkOut": "2026-05-02",
+    "revenue": 2100
+  },
+  {
+    "id": "b14",
+    "guestName": "Grace Kim",
+    "roomNumber": "105",
+    "roomType": "Standard",
+    "source": "Corporate",
+    "status": "confirmed",
+    "checkIn": "2026-05-24",
+    "checkOut": "2026-05-27",
+    "revenue": 480
+  },
+  {
+    "id": "b15",
+    "guestName": "Daniel Moore",
+    "roomNumber": "106",
+    "roomType": "Deluxe",
+    "source": "Airbnb",
+    "status": "invalid",
+    "checkIn": "2026-05-30",
+    "checkOut": "2026-06-03",
+    "revenue": 760
+  },
+  {
+    "id": "b16",
+    "guestName": "Invalid Date Guest",
+    "roomNumber": "999",
+    "roomType": "Standard",
+    "source": "Direct",
+    "status": "confirmed",
+    "checkIn": "2026-05-40",
+    "checkOut": "2026-05-44",
+    "revenue": 100
+  }
+]
