@@ -53,4 +53,6 @@ This includes bookings that start before the selected range, end after it, or fu
 Deployment URL: (https://guestara-assessment.vercel.app/)
 
 Screenshots: <img width="949" height="365" alt="image" src="https://github.com/user-attachments/assets/9bc5f4c6-223c-4883-86ef-02ccc1fe1232" />
+<img width="949" height="370" alt="image" src="https://github.com/user-attachments/assets/d924bea3-fa19-459d-8350-e91aa1355cbc" />
+
 
